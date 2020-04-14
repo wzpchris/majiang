@@ -1,1 +1,2 @@
 # majiang
+majiang hu interface
